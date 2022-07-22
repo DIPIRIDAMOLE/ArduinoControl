@@ -1,0 +1,22 @@
+C:\Users\DIPIRIDAMOLE\Desktop\СЧПУ\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\bin\Debug\ArduinoCtrlApplication x64.exe.config
+C:\Users\DIPIRIDAMOLE\Desktop\СЧПУ\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\bin\Debug\ArduinoCtrlApplication x64.exe
+C:\Users\DIPIRIDAMOLE\Desktop\СЧПУ\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\bin\Debug\ArduinoCtrlApplication x64.pdb
+C:\Users\DIPIRIDAMOLE\Desktop\СЧПУ\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication x64.csproj.AssemblyReference.cache
+C:\Users\DIPIRIDAMOLE\Desktop\СЧПУ\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication x64.csproj.SuggestedBindingRedirects.cache
+C:\Users\DIPIRIDAMOLE\Desktop\СЧПУ\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication_x64.Form1.resources
+C:\Users\DIPIRIDAMOLE\Desktop\СЧПУ\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication_x64.Properties.Resources.resources
+C:\Users\DIPIRIDAMOLE\Desktop\СЧПУ\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication x64.csproj.GenerateResource.cache
+C:\Users\DIPIRIDAMOLE\Desktop\СЧПУ\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication x64.csproj.CoreCompileInputs.cache
+C:\Users\DIPIRIDAMOLE\Desktop\СЧПУ\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication x64.exe
+C:\Users\DIPIRIDAMOLE\Desktop\СЧПУ\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication x64.pdb
+C:\Users\DIPIRIDAMOLE\Desktop\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\bin\Debug\ArduinoCtrlApplication x64.exe.config
+C:\Users\DIPIRIDAMOLE\Desktop\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\bin\Debug\ArduinoCtrlApplication x64.exe
+C:\Users\DIPIRIDAMOLE\Desktop\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\bin\Debug\ArduinoCtrlApplication x64.pdb
+C:\Users\DIPIRIDAMOLE\Desktop\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication x64.csproj.AssemblyReference.cache
+C:\Users\DIPIRIDAMOLE\Desktop\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication x64.csproj.SuggestedBindingRedirects.cache
+C:\Users\DIPIRIDAMOLE\Desktop\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication_x64.Form1.resources
+C:\Users\DIPIRIDAMOLE\Desktop\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication_x64.Properties.Resources.resources
+C:\Users\DIPIRIDAMOLE\Desktop\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication x64.csproj.GenerateResource.cache
+C:\Users\DIPIRIDAMOLE\Desktop\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication x64.csproj.CoreCompileInputs.cache
+C:\Users\DIPIRIDAMOLE\Desktop\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication x64.exe
+C:\Users\DIPIRIDAMOLE\Desktop\ArduinoCtrlApplication x64\ArduinoCtrlApplication x64\obj\Debug\ArduinoCtrlApplication x64.pdb
